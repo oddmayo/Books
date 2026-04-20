@@ -1,10 +1,3 @@
-# R-for-Data-Science-Book
-This repository contains the examples and practical exercises for each chapter of the R for Data Science book as I read it.
+# Books
 
-Book cover:
-
-![image](https://github.com/FoxHound112263/R-for-Data-Science-Book/blob/master/img/cover.png)
-
-taken from: https://r4ds.had.co.nz/
-
-Book also available for free at: https://r4ds.had.co.nz/
+This repo contains the exercises or examples for various programming books I am reading.
